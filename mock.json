@@ -1,0 +1,80 @@
+{
+  "data": [
+    {
+      "id": "51b919f9-5f34-ef11-bb9f-000d3a814ac8",
+      "name": "outreachTestInvestor5",
+      "modifiedDate": "2024-06-28T12:45:29.617",
+      "modifiedDateStr": "06/28/2024",
+      "dataSublist": [
+        {
+          "priorityClass": "default",
+          "statusClass": "current",
+          "strategyName": "PE",
+          "projectName": "",
+          "noteType": "",
+          "status": "Current",
+          "strategy": "PE",
+          "coverages": "-",
+          "contact": "-",
+          "nextStepDate": "0001-01-01T00:00:00",
+          "formatedNextStepDateTime": "-",
+          "priority": "No Priority",
+          "investorId": "51b919f9-5f34-ef11-bb9f-000d3a814ac8"
+        },
+        {
+          "priorityClass": "default",
+          "statusClass": "unassigned",
+          "strategyName": "Credit",
+          "projectName": "",
+          "noteType": "",
+          "status": "unAssigned",
+          "strategy": "Credit",
+          "coverages": "-",
+          "contact": "-",
+          "nextStepDate": "0001-01-01T00:00:00",
+          "formatedNextStepDateTime": "-",
+          "priority": "No Priority",
+          "investorId": "51b919f9-5f34-ef11-bb9f-000d3a814ac8"
+        }
+      ]
+    },
+    {
+      "id": "51b919f8-5f34-ef11-bb9f-000d3a814ac8",
+      "name": "outreach Test Alpha Associates",
+      "modifiedDate": "2024-07-26T12:45:29.617",
+      "modifiedDateStr": "07/26/2024",
+      "dataSublist": [
+        {
+          "priorityClass": "default",
+          "statusClass": "current",
+          "strategyName": "PE",
+          "projectName": "",
+          "noteType": "",
+          "status": "Current",
+          "strategy": "PE",
+          "coverages": "-",
+          "contact": "-",
+          "nextStepDate": "0001-01-01T00:00:00",
+          "formatedNextStepDateTime": "-",
+          "priority": "No Priority",
+          "investorId": "51b919f8-5f34-ef11-bb9f-000d3a814ac8"
+        },
+        {
+          "priorityClass": "default",
+          "statusClass": "unassigned",
+          "strategyName": "Credit",
+          "projectName": "",
+          "noteType": "",
+          "status": "unAssigned",
+          "strategy": "Credit",
+          "coverages": "-",
+          "contact": "-",
+          "nextStepDate": "0001-01-01T00:00:00",
+          "formatedNextStepDateTime": "-",
+          "priority": "No Priority",
+          "investorId": "51b919f8-5f34-ef11-bb9f-000d3a814ac8"
+        }
+      ]
+    }
+  ]
+}
